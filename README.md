@@ -3,7 +3,7 @@
 
 **Node Name in UI:** `🚀 ORAKUL SYSTEM SELECTOR  👨‍🔧MULTITOOL👨‍🔧`
 
-> **TECHNICAL NOTE:** Все изображения и видео в этой статье — это прямые скриншоты и записи оригинальных генераций. 
+> **TECHNICAL NOTE:** Все изображения и видео в этой статье - это прямые скриншоты и записи оригинальных генераций. 
 > **Zero Post-Processing.** Без фотошопа и внешних апскейлеров. Вы видите чистую математику метода.
 
 ## ⚡ The Viking Method: Why Our Scheduler?
@@ -27,7 +27,7 @@ https://github.com/user-attachments/assets/9a512504-d5c8-48b0-864e-c506c51addf8
 *Stock (500/50k): Нативная влажность и микро-рельеф, недоступные стандартным сэмплерам.*
 
 ![Viking Extreme](viking_extreme.jpg)
-*Extreme (10k/80k): Бесконечная глубина зрачка. Вглядитесь в отражение — данные не заканчиваются.*
+*Extreme (10k/80k): Бесконечная глубина зрачка. Вглядитесь в отражение  данные не заканчиваются.*
 
 ## ⚙️ Parameters & Calibration
 | Level | Detail Density (DTL) | Noise Precision (NP) | Description |
@@ -45,7 +45,7 @@ https://github.com/user-attachments/assets/9a512504-d5c8-48b0-864e-c506c51addf8
 *Мы выводим реальную математику в лог. Вы видите статус системы и значения `sys` в реальном времени.*
 
 ## 🧬 Logic Inside
-Мы не просто добавили ползунки. Мы переписали логику взаимодействия шума с весами на каждом шаге. Если вы хотите увидеть математику этого процесса — загляните в исходный код. **Там всё честно.**
+Мы не просто добавили ползунки. Мы переписали логику взаимодействия шума с весами на каждом шаге. Если вы хотите увидеть математику этого процесса  загляните в исходный код. **Там всё честно.**
 
 ## 📥 Installation / Установка
 1. **Custom Node:** Перенесите папку `viking_multitool` в:  
@@ -56,5 +56,9 @@ https://github.com/user-attachments/assets/9a512504-d5c8-48b0-864e-c506c51addf8
    
 [Native 16-bit Master RAW (TIFF)](https://github.com/OrakulStudio/ComfyUI-Orakul-SVP-Dual-Export-Node-for-ComfyUI-PNG-to-output-16-bit-RAW-TIFF-to-output-temp_svp)
 
+
+## 📜 License
+
+This project is licensed under the **MIT License**  free for personal and commercial use. See the [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://members.opensource.org/user/roman-nykonov) file for details.
 ---
 *Developed in the shadows. Tested on RTX 4090. Zero BS.*
